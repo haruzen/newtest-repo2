@@ -3,4 +3,8 @@
 Some descriptions new!
 ## subheader
 
-watch git demo2.
+watch git demo.
+
+## Local Development 
+
+1. Open index.html in your browser
